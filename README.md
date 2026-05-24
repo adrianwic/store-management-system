@@ -17,4 +17,4 @@ This is a console-based store management application developed to practice and d
 * szablony.cpp - Custom template functions.
 
 ## How to Run
-This project was developed using standard C++ and can be compiled using any modern C++ compiler or simply opened and built within Visual Studio.**
+This project was developed using standard C++ and can be compiled using any modern C++ compiler or simply opened and built within Visual Studio.
