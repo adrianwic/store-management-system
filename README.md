@@ -1,4 +1,4 @@
-**# C++ Store Management System
+C++ Store Management System
 
 ## Overview
 This is a console-based store management application developed to practice and demonstrate advanced Object-Oriented Programming concepts in C++. It simulates a store's inventory, allowing the user to add, search, sell, and manage products, as well as process daily revenue and handle data persistence.
